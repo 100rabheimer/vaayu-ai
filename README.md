@@ -126,3 +126,4 @@ graph TD
 
 1.  **Dev Mode** (instant reload): `npm run dev` (runs on [http://localhost:5173](http://localhost:5173)).
 2.  **Production Mode** (with database): `npm run build` then `npm run start` (runs on [http://localhost:5000](http://localhost:5000)).
+3.  **Vercel link  https://delhi-aqi-sentinel.vercel.app/

@@ -1,0 +1,19 @@
+{
+  "name": "VaayuAI - Delhi NCR Pollution Control",
+  "short_name": "VaayuAI",
+  "description": "AI-Driven Pollution Source Identification, Forecasting & Policy Dashboard for Delhi-NCR",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090d16",
+  "theme_color": "#0f172a",
+  "orientation": "portrait",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
